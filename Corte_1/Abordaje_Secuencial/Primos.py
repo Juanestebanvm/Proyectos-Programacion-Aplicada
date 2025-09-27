@@ -1,3 +1,5 @@
+#Este Ejercicio Vale una Decima en la Calificacion del Primer Corte
+#Juan Esteban Vargas 20232005027
 import time
 
 while True:
