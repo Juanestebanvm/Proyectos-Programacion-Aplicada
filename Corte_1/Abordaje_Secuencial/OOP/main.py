@@ -1,4 +1,4 @@
-#Este Ejercicio Vale una unidad en la Calificacion del Primer Corte
+#Este Ejercicio Vale una unidad y dos decimas en la Calificacion del Primer Corte
 #Codigo Usando try except
 #Juan Vargas 20232005027
 import ClaseOperaciones
